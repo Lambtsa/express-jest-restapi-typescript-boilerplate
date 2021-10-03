@@ -1,4 +1,4 @@
-# REST API boilerplate using express, jest and supertest
+# REST API boilerplate using express, typescript, jest and supertest
 
 ## Scripts
 
